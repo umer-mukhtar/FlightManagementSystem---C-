@@ -1,0 +1,10 @@
+Islamabad Lahore 0.75
+Islamabad Peshawar 0.55
+Islamabad Quetta 1.41
+Islamabad Karachi 1.75
+Lahore Peshawar 0.95
+Lahore Quetta 1.45
+Lahore Karachi 1.61
+Peshawar Quetta 1.28
+Peshawar Karachi 1.71
+Quetta Karachi 1.26

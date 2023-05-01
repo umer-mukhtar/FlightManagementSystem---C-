@@ -1,0 +1,10 @@
+ISBN Islamabad
+ISBS Islamabad
+LHEN Lahore
+LHES Lahore
+UETN Quetta
+UETS Quetta
+PEWN Peshawar
+PEWS Peshawar
+KHIN Karachi
+KHIS Karachi

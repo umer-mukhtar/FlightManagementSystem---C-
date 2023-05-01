@@ -1,0 +1,7 @@
+5 Islamabad Peshawar Lahore Quetta Karachi
+4 Peshawar Lahore Quetta Karachi
+3 Lahore Quetta Karachi
+3 Lahore Islamabad Peshawar
+4 Quetta Lahore Islamabad Peshawar
+2 Quetta Karachi
+5 Karachi Quetta Lahore Islamabad Peshawar

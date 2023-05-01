@@ -1,0 +1,5 @@
+117 NPA-117 19 6 2021 9 23 Islamabad 4 China Thailand Indonesia Alaska 21 9 Expected
+224 NPA-224 19 6 2021 10 25 Karachi 3 Sweden Norway France 37 2 Expected
+334 NPA-334 19 6 2021 12 30 Islamabad 4 UAE Qatar SaudiArabia Azerbaijan 12 3 Expected
+552 NPA-552 19 6 2021 14 23 Lahore 2 Morocco SouthAfrica 0 6 Expected
+114 NPA-114 19 6 2021 18 19 Karachi 5 Brazil Colombia NewYork Illinois Canada 23 0 Expected

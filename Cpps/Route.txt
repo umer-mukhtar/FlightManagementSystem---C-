@@ -1,0 +1,5 @@
+4 Dubai Qatar SaudiArabia Azerbaijan
+6 Brazil Colombia Mexico NewYork Illinois Canada
+5 Finland Sweden Norway UK France
+4 Egypt Morocco Sudan SouthAfrica
+6 China Thailand Malaysia Indonesia Japan Alaska 

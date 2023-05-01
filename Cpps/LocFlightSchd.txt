@@ -1,0 +1,10 @@
+010 NPA-010 19 6 2021 10 25 Islamabad-N 3 Lahore-N Quetta-N Karachi-S 13 4 Expected
+011 NPA-011 19 6 2021 11 30 Islamabad-S 2 Lahore-S Karachi-S 40 8 Expected
+012 NPA-012 19 6 2021 12 30 Islamabad-S 2 Quetta-S Karachi-N 12 0 Expected
+013 NPA-013 19 6 2021 12 55 Quetta-N 3 Lahore-S Islamabad-S Peshawar-S 0 3 Expected
+014 NPA-014 19 6 2021 15 30 Peshawar-S 2 Islamabad-N Lahore-N 30 5 Expected
+015 NPA-015 19 6 2021 15 45 Peshawar-N 1 Karachi-N 34 9 Expected
+016 NPA-016 19 6 2021 16 22 Karachi-S 4 Quetta-N Lahore-S Islamabad-N Peshawar-S 49 1 Expected
+017 NPA-017 19 6 2021 17 20 Lahore-S 2 Islamabad-S Peshawar-N 0 0 Expected
+018 NPA-018 19 6 2021 18 30 Quetta-S 2 Islamabad-N Peshawar-S 30 1 Expected
+019 NPA-019 19 6 2021 18 50 Karachi-N 2 Quetta-S Peshawar-N 7 9 Expected
